@@ -1,0 +1,28 @@
+.noticia-info {
+	display: flex;
+	flex-direction: column;
+	max-width: 800px;
+	padding: 0 8px;
+	margin: auto;
+	margin-top: 18px;
+}
+
+.noticia-info h1 {
+	margin: 14px 0;
+}
+
+.noticia-info img {
+	border-radius: 8px;
+	width: 900px;
+	max-width: 100%;
+	max-height: 340px;
+	object-fit: cover;
+}
+
+.noticia-info h3 {
+	margin-top: 14px;
+}
+
+.noticia-info span {
+	margin: 8px 0;
+}
